@@ -20,7 +20,7 @@
 [Strawpage](https://ilikegeodes.straw.page/) [ATA Book](https://ilikegeodes.atabook.org/) [Toad Army](https://forms.gle/9bMnbvmW8XufVYS46)
 
 
-If you don't wanna come up with words to sign my ATA book, you can always tag my banner! :D 
+If you don't wanna come up with words to sign my ATA book, you can always tag my banner below! :D 
 
 ![banner](banner689302.svg)
 
