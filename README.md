@@ -179,5 +179,5 @@ they arent very good lol
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Geode&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&textBg=false"/>
 
-Fun Fact About Me: My real (legal) name is actually Geode, with a name like that I had to roll with the aethsteic 😭. That's why my name is ilikegeodes instead of ilovegeodes, since it's not actually my favorite rock.
+Fun Fact About Me: My real (legal) name is actually Geode, with a name like that I had to roll with the aethsteic 😭. That's why my name is ilikegeodes instead of ilovegeodes, since it's not actually my favorite rock. :P
 
