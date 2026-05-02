@@ -12,13 +12,15 @@
   <img src="https://tse3.mm.bing.net/th/id/OIP.kSjvbisHUwvxn1azAgvuqwHaEK?rs=1&pid=ImgDetMain&o=7&rm=3.jpg" width="800" height="400"/>
 </div>
 
----
 
 <div align="center">
   
 ## My Links :D
 
 [Strawpage](https://ilikegeodes.straw.page/) [ATA Book](https://ilikegeodes.atabook.org/) [Toad Army](https://forms.gle/9bMnbvmW8XufVYS46)
+
+
+If you don't wanna come up with words to sign my ATA book, you can always tag my banner! :D
 
 ---
 
@@ -164,6 +166,7 @@ they arent very good lol
 
 [MY VERY COOL WEBSITE YOU SHOULD DEF CLICK ON IT DEF WONT SEND YOU TO AN INFAMOUS MUSIC VIDEO](https://creations.mtdv.me/views/so-awesome))
 
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Geode&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&textBg=false"/>
+
 Fun Fact About Me: My real (legal) name is actually Geode, with a name like that I had to roll with the aethsteic 😭. That's why my name is ilikegeodes instead of ilovegeodes, since it's not actually my favorite rock.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Geode&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&textBg=false"/>
