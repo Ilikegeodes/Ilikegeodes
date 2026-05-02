@@ -25,12 +25,12 @@ If you don't wanna come up with words to sign my ATA book, you can always tag my
 ![banner](banner.svg)
 
 
-###### [Ilikegeodes](https://github.com/Ilikegeodes/Ilikegeodes/issues/new?title=Add+my+username+to+the+banner!&body=Just+push+%27Create%27.+You+don%27t+need+to+do+anything+else.)
+###### [Click Here to Put Your Name!](https://github.com/Ilikegeodes/Ilikegeodes/issues/new?title=Add+my+username+to+the+banner!&body=Just+push+%27Create%27.+You+don%27t+need+to+do+anything+else.)
 
 <!--begin usernames-->
 <!--end usernames-->
 
-(im stupid and dont know how to make it yet)
+[Link to Add This to Your Own Github](https://github.com/BertPlasschaert/TaggableBanner)
 
 ---
 
