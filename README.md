@@ -31,7 +31,19 @@ If you don't wanna come up with words to sign my ATA book, you can always tag my
 ###### [Ilikegeodes](https://github.com/Ilikegeodes) on 02/05/2026
 <!--end usernames-->
 
-###### [Link to Add This to Your Own Github](https://github.com/BertPlasschaert/TaggableBanner)
+###### [Link to Add This to Your Own Github](https://github.com/BertPlasschaert/TaggableBanner)"
+
+---
+
+Im gonna put a real playable game here trust (probably maybe at some point idk im a procrastinator sorry)
+
+Game Placeholder Gif: 
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
+</picture>
 
 ---
 
@@ -165,6 +177,8 @@ If you don't wanna come up with words to sign my ATA book, you can always tag my
 ### :fire: My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ilikegeodes&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![My Stats](https://github-stats-ilikegeodes.vercel.app/api/stats.js?username=ilikegeodes)](https://github.com/ilikegeodes/github-stats)
 
 they arent very good lol 
 
