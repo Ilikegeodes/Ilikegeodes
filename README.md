@@ -22,13 +22,14 @@
 
 If you don't wanna come up with words to sign my ATA book, you can always tag my banner below! :D 
 
-![banner](banner689302.svg)
+![banner](banner057716.svg)
 
 
 ### [→ Click Here to Put Your Name! ←](https://github.com/Ilikegeodes/Ilikegeodes/issues/new?title=Add+my+username+to+the+banner!&body=Just+push+%27Create%27.+You+don%27t+need+to+do+anything+else.)
 
 <!--begin usernames-->
 ###### [Ilikegeodes](https://github.com/Ilikegeodes) on 02/05/2026
+###### [deadgirIwalking](https://github.com/deadgirIwalking) on 03/05/2026
 <!--end usernames-->
 
 ###### [Link to Add This to Your Own Github](https://github.com/BertPlasschaert/TaggableBanner)"
