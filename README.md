@@ -195,3 +195,5 @@ they arent very good lol
 
 Fun Fact About Me: My real (legal) name is actually Geode, with a name like that I had to roll with the aethsteic 😭. That's why my name is ilikegeodes instead of ilovegeodes, since it's not actually my favorite rock. :P
 
+Idk what else to put here might add some virtual pets 
+
