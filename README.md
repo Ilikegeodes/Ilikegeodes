@@ -22,13 +22,14 @@
 
 If you don't wanna come up with words to sign my ATA book, you can always tag my banner below! :D 
 
-![banner](banner834841.svg)
+![banner](banner240476.svg)
 
 
 ### [→ Click Here to Put Your Name! ←](https://github.com/Ilikegeodes/Ilikegeodes/issues/new?title=Add+my+username+to+the+banner!&body=Just+push+%27Create%27.+You+don%27t+need+to+do+anything+else.)
 
 <!--begin usernames-->
 ###### [Ilikegeodes](https://github.com/Ilikegeodes) on 04/05/2026
+###### [prettylittlelaces](https://github.com/prettylittlelaces) on 04/05/2026
 <!--end usernames-->
 
 ###### Thank you for signing! :D (I may have to redo everything since the fonts and colors got messed up, sorry if your name got deleted, you can always resign.)
