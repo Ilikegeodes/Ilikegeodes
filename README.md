@@ -31,7 +31,7 @@ If you don't wanna come up with words to sign my ATA book, you can always tag my
 ###### [Ilikegeodes](https://github.com/Ilikegeodes) on 04/05/2026
 <!--end usernames-->
 
-###### Thank you for signing! :D (I may have to reset everything since the fonts and colors got messed up, sorry if your name gets deleted, you can always resign.)
+###### Thank you for signing! :D (I may have to redo everything since the fonts and colors got messed up, sorry if your name got deleted, you can always resign.)
 
 ###### [Link to Add This to Your Own Github](https://github.com/BertPlasschaert/TaggableBanner)"
 
