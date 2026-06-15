@@ -6,6 +6,7 @@
 <h1>
   
  # Tis I Geode!
+ I am the Pet Stealer of Ponytown <a href="https://github.com/title-town">@title-town</a> :D
 </div>
   
 <div align="center">
