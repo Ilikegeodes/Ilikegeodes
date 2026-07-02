@@ -23,7 +23,7 @@
 
 If you don't wanna come up with words to sign my ATA book, you can always tag my banner below! :D 
 
-![banner](banner050536.svg)
+![banner](banner685603.svg)
 
 
 ### [→ Click Here to Put Your Name! ←](https://github.com/Ilikegeodes/Ilikegeodes/issues/new?title=Add+my+username+to+the+banner!&body=Just+push+%27Create%27.+You+don%27t+need+to+do+anything+else.)
@@ -33,6 +33,7 @@ If you don't wanna come up with words to sign my ATA book, you can always tag my
 ###### [prettylittlelaces](https://github.com/prettylittlelaces) on 04/05/2026
 ###### [BertPlasschaert](https://github.com/BertPlasschaert) on 04/05/2026
 ###### [sketchyremorse](https://github.com/sketchyremorse) on 01/07/2026
+###### [dawnsummer](https://github.com/dawnsummer) on 02/07/2026
 <!--end usernames-->
 
 ###### Thank you for signing! :D (I may have to redo everything since the fonts and colors got messed up, sorry if your name got deleted, you can always resign.)
