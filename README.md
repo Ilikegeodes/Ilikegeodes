@@ -40,7 +40,7 @@ If you don't wanna come up with words to sign my ATA book, you can always tag my
 ###### [Z33r00LagsAlot](https://github.com/Z33r00LagsAlot) on 06/09/2026
 <!--end usernames-->
 
-###### Thank you for signing! :D (I may have to redo everything since the fonts and colors got messed up, sorry if your name got deleted, you can always resign.)
+###### Thank you for signing! :D (it semi-randomly places your name, sorry if yours gets covered 😭)
 
 ###### [Link to Add This to Your Own Github](https://github.com/BertPlasschaert/TaggableBanner)
 
