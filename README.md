@@ -7,6 +7,8 @@
   
  # Tis I Geode!
  I am the Pet Stealer of Ponytown <a href="https://github.com/title-town">@title-town</a> :D
+ 
+ ##### Pfp art by Pomerou
 </div>
   
 <div align="center">
