@@ -3,10 +3,9 @@
 </div>
 <div id="badges" align="center">
 <img src="https://komarev.com/ghpvc/?username=ilikegeodes&style=flat-square&color=red" alt=""/>
-<h1>
   
  # Tis I Geode!
- I am the Pet Stealer of Ponytown <a href="https://github.com/title-town">@title-town</a> :D
+ I am the Pet Stealer of <a href="https://github.com/title-town">@title-town</a> :D
  
  ##### Pfp art by [Pomerou](https://www.youtube.com/@Pomerou)
 </div>
@@ -15,9 +14,9 @@
   <img src="https://tse3.mm.bing.net/th/id/OIP.kSjvbisHUwvxn1azAgvuqwHaEK?rs=1&pid=ImgDetMain&o=7&rm=3.jpg" width="800" height="400"/>
 </div>
 
-
 <div align="center">
-  
+
+
 ## My Links :D
 
 [Strawpage](https://ilikegeodes.straw.page/)  [Artfight](https://artfight.net/~BlueberryGuy)   [ATA Book](https://ilikegeodes.atabook.org/)   [Toad Army](https://forms.gle/9bMnbvmW8XufVYS46)
