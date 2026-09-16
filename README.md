@@ -30,6 +30,11 @@ If you don't wanna come up with words to sign my ATA book, you can always tag my
 
 ### [→ Click Here to Put Your Name! ←](https://github.com/Ilikegeodes/Ilikegeodes/issues/new?title=Add+my+username+to+the+banner!&body=Just+push+%27Create%27.+You+don%27t+need+to+do+anything+else.)
 
+<details>
+
+
+<summary> People Who Signed </summary>
+
 <!--begin usernames-->
 ###### [Ilikegeodes](https://github.com/Ilikegeodes) on 04/05/2026
 ###### [prettylittlelaces](https://github.com/prettylittlelaces) on 04/05/2026
@@ -41,6 +46,9 @@ If you don't wanna come up with words to sign my ATA book, you can always tag my
 ###### [qnakin](https://github.com/qnakin) on 25/08/2026
 ###### [Z33r00LagsAlot](https://github.com/Z33r00LagsAlot) on 06/09/2026
 <!--end usernames-->
+
+</details>
+
 
 ###### Thank you for signing! :D (it semi-randomly places your name, sorry if yours gets covered 😭)
 
@@ -68,9 +76,13 @@ Game Placeholder Gif:
 
 --
 <div align="center">
-  
+
+
 ### A Poem About Toads
 
+<details>
+
+<summary> its long click here if you wanna read </summary>
 .
 
 𝓘𝓷 𝓪 𝓹𝓾𝓭𝓭𝓵𝓮 𝓫𝓮𝓱𝓲𝓷𝓭 𝓪 𝓬𝓻𝓸𝓸𝓴𝓮𝓭 𝓯𝓮𝓷𝓬𝓮,
@@ -185,6 +197,8 @@ Game Placeholder Gif:
 𝓛𝓲𝓴𝓮 𝓽𝓸𝓪𝓭𝓼 𝓼𝓽𝓲𝓵𝓵 𝓶𝓪𝓻𝓬𝓱𝓲𝓷𝓰, 𝓼𝓸𝓶𝓮𝔀𝓱𝓮𝓻𝓮 𝓫𝓮𝓵𝓸𝔀.
 
 .
+</details>
+
 ---
 
 ### :fire: My Stats :
@@ -206,7 +220,7 @@ they arent very good lol
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Geode&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&textBg=false"/>
 
-Fun Fact About Me: My real (legal) name is actually Geode, with a name like that I had to roll with the aethsteic 😭. That's why my name is ilikegeodes instead of ilovegeodes, since it's not actually my favorite rock. :P
+Fun Fact About Me: My real (legal) name is actually Geode, with a name like that I had to roll with the aesthetic 😭. That's why my name is ilikegeodes instead of ilovegeodes, since it's not actually my favorite rock. :P
 
 Idk what else to put here might add some virtual pets 
 
