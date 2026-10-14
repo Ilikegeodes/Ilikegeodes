@@ -1,8 +1,11 @@
 <div id="header" align="center">
   <img src="https://tenor.com/view/ahh-gif-15540509531110086274.gif" width="150"/>
 </div>
+
 <div id="badges" align="center">
-<img src="https://komarev.com/ghpvc/?username=ilikegeodes&style=flat-square&color=blueviolet" alt=""/>
+    <img src="https://hits.sh/github.com/Ilikegeodes.svg?style=plastic&label=Targets&extraCount=-35&labelColor=ba84ec&color=6832cf" alt="Visitor count"> 
+  <img src="https://hits.sh/github.com/Ilikegeodes.svg?style=plastic&label=PeopleIMugged&extraCount=1137&labelColor=CF323B&color=32CF68" alt="Visitor count"> 
+  <img src="https://img.shields.io/github/followers/Ilikegeodes?style=plastic&label=Moots!&labelColor=6832cf&color=ba84ec" alt="Profile followers">
   
  # Tis I Geode!
  I am the Pet Stealer of <a href="https://github.com/title-town">@title-town</a> :D
