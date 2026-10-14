@@ -2,7 +2,7 @@
   <img src="https://tenor.com/view/ahh-gif-15540509531110086274.gif" width="150"/>
 </div>
 <div id="badges" align="center">
-<img src="https://komarev.com/ghpvc/?username=ilikegeodes&style=flat-square&color=red" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=ilikegeodes&style=flat-square&color=blueviolet" alt=""/>
   
  # Tis I Geode!
  I am the Pet Stealer of <a href="https://github.com/title-town">@title-town</a> :D
