@@ -3,7 +3,7 @@
 </div>
 
 <div id="badges" align="center">
-      <img src="https://hits.sh/github.com/Ilikegeodes.svg?style=plastic&label=Targets&extraCount=-60&labelColor=aa3ec5&color=D7BD00" alt="Visitor count"> 
+      <img src="https://hits.sh/github.com/Ilikegeodes.svg?style=plastic&label=Targets&extraCount=-95&labelColor=aa3ec5&color=D7BD00" alt="Visitor count"> 
   <img src="https://hits.sh/github.com/Ilikegeodes.svg?style=plastic&label=PeopleIMugged&extraCount=1137&labelColor=CF323B&color=32CF68" alt="Visitor count"> 
   <img src="https://img.shields.io/github/followers/Ilikegeodes?style=plastic&label=Moots!&labelColor=6832cf&color=ba84ec" alt="Profile followers">
   
