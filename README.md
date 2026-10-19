@@ -234,7 +234,7 @@ Idk what else to put here might add some virtual pets
 
 <a name="top"></a>
 
-Tic Tac Toe game below :D Can you win? Just click a square! (it's laggy give it a minute to load)
+# Tic Tac Toe game below :D Can you win? Just click a square! (it's laggy give it a minute to load)
 
 ---
 <a name="root"></a><br/><br/><br/>
