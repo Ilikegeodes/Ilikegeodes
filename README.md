@@ -3,7 +3,7 @@
 </div>
 
 <div id="badges" align="center">
-      <img src="https://hits.sh/github.com/Ilikegeodes.svg?style=plastic&label=Targets&extraCount=-95&labelColor=aa3ec5&color=D7BD00" alt="Visitor count"> 
+      <img src="https://hits.sh/github.com/Ilikegeodes.svg?style=plastic&label=Targets&extraCount=-170&labelColor=aa3ec5&color=D7BD00" alt="Visitor count"> 
   <img src="https://hits.sh/github.com/Ilikegeodes.svg?style=plastic&label=PeopleIMugged&extraCount=1137&labelColor=CF323B&color=32CF68" alt="Visitor count"> 
   <img src="https://img.shields.io/github/followers/Ilikegeodes?style=plastic&label=Moots!&labelColor=6832cf&color=ba84ec" alt="Profile followers">
   
@@ -232,15 +232,15 @@ Idk what else to put here might add some virtual pets
 
 ---
 
+
+### Tic Tac Toe game below :D Can you win? Just click a square! (it's laggy give it a minute to load)
+
 <details>
 
 
 <summary> Click for playable tic-tac-toe game </summary>
 
 <a name="top"></a>
-
-# Tic Tac Toe game below :D Can you win? Just click a square! (it's laggy give it a minute to load)
-
 
 ---
 <a name="root"></a><br/><br/><br/>
