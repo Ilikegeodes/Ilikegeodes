@@ -235,7 +235,7 @@ Idk what else to put here might add some virtual pets
 <details>
 
 
-<summary> Click for game </summary>
+<summary> Click for playable tic-tac-toe game </summary>
 
 <a name="top"></a>
 
