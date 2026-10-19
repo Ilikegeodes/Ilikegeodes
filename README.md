@@ -232,9 +232,15 @@ Idk what else to put here might add some virtual pets
 
 ---
 
+<details>
+
+
+<summary> Click for game </summary>
+
 <a name="top"></a>
 
 # Tic Tac Toe game below :D Can you win? Just click a square! (it's laggy give it a minute to load)
+
 
 ---
 <a name="root"></a><br/><br/><br/>
@@ -2147,3 +2153,5 @@ Idk what else to put here might add some virtual pets
 ###### Credits: <a href="https://github.com/kylepls">**@kylepls**</a>
 <a name="bottom"></a>
 [Take me to the top](#top)
+
+</details>
