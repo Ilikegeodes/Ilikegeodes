@@ -3,12 +3,12 @@
 </div>
 
 <div id="badges" align="center">
-      <img src="https://hits.sh/github.com/Ilikegeodes.svg?style=plastic&label=Targets&extraCount=-280&labelColor=aa3ec5&color=D7BD00" alt="Visitor count"> 
+      <img src="https://hits.sh/github.com/Ilikegeodes.svg?style=plastic&label=Targets&extraCount=-350&labelColor=aa3ec5&color=D7BD00" alt="Visitor count"> 
   <img src="https://hits.sh/github.com/Ilikegeodes.svg?style=plastic&label=PeopleIMugged&extraCount=1137&labelColor=CF323B&color=32CF68" alt="Visitor count"> 
   <img src="https://img.shields.io/github/followers/Ilikegeodes?style=plastic&label=Moots!&labelColor=6832cf&color=ba84ec" alt="Profile followers">
   
  # Tis I Geode!
- I am the Pet Stealer of <a href="https://github.com/title-town">@title-town</a> :D
+ I am the Pet Stealer of <a href="https://github.com/title-town">@title-town</a> :D And the Damian Wayne of  <a href="https://github.com/Ponytowns-rewards">@Ponytown-Awards</a>
  
  ##### Pfp art by [Pomerou](https://www.youtube.com/@Pomerou)
 </div>
