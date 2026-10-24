@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/github/followers/Ilikegeodes?style=plastic&label=Moots!&labelColor=6832cf&color=ba84ec" alt="Profile followers">
   
  # Tis I Geode!
- I am the Pet Stealer of <a href="https://github.com/title-town">@title-town</a> :D And the Damian Wayne of  <a href="https://github.com/Ponytowns-rewards">@Ponytown-Awards</a>
+ I am the Pet Stealer of <a href="https://github.com/title-town">@title-town</a> :D And the Damian Wayne of  <a href="https://github.com/Ponytowns-rewards">@Ponytowns-Awards</a>
  
  ##### Pfp art by [Pomerou](https://www.youtube.com/@Pomerou)
 </div>
