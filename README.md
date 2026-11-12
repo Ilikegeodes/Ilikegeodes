@@ -7,7 +7,7 @@
 ##### Primarily offline or AFK rn because of schoolwork 
 
 <div id="badges" align="center">
-      <img src="https://hits.sh/github.com/Ilikegeodes.svg?style=plastic&label=Targets&extraCount=-970&labelColor=aa3ec5&color=D7BD00" alt="Visitor count"> 
+      <img src="https://hits.sh/github.com/Ilikegeodes.svg?style=plastic&label=Targets&extraCount=-1000&labelColor=aa3ec5&color=D7BD00" alt="Visitor count"> 
   <img src="https://hits.sh/github.com/Ilikegeodes.svg?style=plastic&label=PeopleIMugged&extraCount=1137&labelColor=CF323B&color=32CF68" alt="Visitor count"> 
   <img src="https://img.shields.io/github/followers/Ilikegeodes?style=plastic&label=Moots!&labelColor=6832cf&color=ba84ec" alt="Profile followers">
   
@@ -227,7 +227,7 @@ they arent very good lol
   <img src="https://tenor.com/view/bullish-stock-bull-run-market-surge-stock-growth-rising-stocks-gif-4392823209095526651.gif" width="600" height="300"/>
 </div>
 
-[MY VERY COOL WEBSITE YOU SHOULD DEF CLICK ON IT DEF WONT SEND YOU TO AN INFAMOUS MUSIC VIDEO](https://creations.mtdv.me/views/so-awesome))
+[MY VERY COOL WEBSITE YOU SHOULD DEF CLICK ON IT DEF WONT SEND YOU TO AN INFAMOUS MUSIC VIDEO](https://creations.mtdv.me/so-awesome)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Geode&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&textBg=false"/>
 
