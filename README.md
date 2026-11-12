@@ -31,7 +31,7 @@
 
 If you don't wanna come up with words to sign my ATA book, you can always tag my banner below! :D 
 
-![banner](banner431132.svg)
+![banner](banner641834.svg)
 
 
 ### [→ Click Here to Put Your Name! ←](https://github.com/Ilikegeodes/Ilikegeodes/issues/new?title=Add+my+username+to+the+banner!&body=Just+push+%27Create%27.+You+don%27t+need+to+do+anything+else.)
@@ -56,6 +56,7 @@ If you don't wanna come up with words to sign my ATA book, you can always tag my
 ###### [bread-ish](https://github.com/bread-ish) on 14/10/2026
 ###### [JevilIRL](https://github.com/JevilIRL) on 14/10/2026
 ###### [PT-Badges](https://github.com/PT-Badges) on 25/10/2026
+###### [softtoyshark](https://github.com/softtoyshark) on 12/11/2026
 <!--end usernames-->
 
 </details>
