@@ -4,10 +4,10 @@
 
 <div align="center">
   
-##### Primarily offline or AFK rn because of schoolwork 
+##### Primarily offline or AFK rn because of schoolwork, please turkey day break get here sooner :(
 
 <div id="badges" align="center">
-      <img src="https://hits.sh/github.com/Ilikegeodes.svg?style=plastic&label=Targets&extraCount=-1000&labelColor=aa3ec5&color=D7BD00" alt="Visitor count"> 
+      <img src="https://hits.sh/github.com/Ilikegeodes.svg?style=plastic&label=Targets&extraCount=-1037&labelColor=aa3ec5&color=D7BD00" alt="Visitor count"> 
   <img src="https://hits.sh/github.com/Ilikegeodes.svg?style=plastic&label=PeopleIMugged&extraCount=1137&labelColor=CF323B&color=32CF68" alt="Visitor count"> 
   <img src="https://img.shields.io/github/followers/Ilikegeodes?style=plastic&label=Moots!&labelColor=6832cf&color=ba84ec" alt="Profile followers">
   
